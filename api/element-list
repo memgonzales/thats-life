@@ -1,0 +1,16 @@
+unnamed package
+cards
+cards.action_cards
+cards.action_cards.collect_from_bank
+cards.action_cards.collect_from_player
+cards.action_cards.pay_bank
+cards.action_cards.pay_player
+cards.blue_cards
+cards.career_cards
+controllers
+core
+decks
+gui
+spaces
+spaces.green_spaces
+spaces.magenta_spaces

@@ -1,0 +1,93 @@
+[The following file is adapted from the machine project specifications for That's Life, authored by Ms. Shirley B. Chu of the College of Computer Studies.]
+
+That's Life! mirrors life events of people from going to college, having a career, raising a family, investing, buying a house, working, and retiring.
+
+The goal of this game is for the players to reach retirement as early as possible with the most savings on hand.
+
+Players decide what kind of life they want to experience during the game. At the start of each round, the player spins the wheel for a randomly generated number. This determines the number of spaces they will advance on the board.
+
+Unlike usual board games, where there is only one path from start to end, That's Life!, at some areas along the way, presents players with two options: to continue moving forward, or to take a shorter (or maybe longer) route to reach another space on the board.
+
+INITIAL INSTRUCTIONS
+
+1. At the start of their turn, a player can either BORROW or PAY LOANS.
+2. After settling loans, a player presses SPIN to get their number of moves.
+3. After moving, a player presses GO to execute the effect of the space.
+4. The current player can press the CARDS button to see their held cards.
+
+GETTING STARTED
+
+The game can be played by 2 or 3 players. Each player is given an initial cash of $200000. Each decides either to start a Career, or to start College. Afterwards, players take turns in spinning for a random number to determine the number of spaces they advance on the board.
+
+If a player chooses to start a career, they take the Career Path on the board. They draw one Career Card and one Salary Card. If the career requires a degree, they return the card and take the next one. The final drawn cards are kept and will be the player's current career and salary.
+
+If a player chooses to start college, they take the College Path on the board. They borrow $40,000 from the bank to pay for college, but will have the advantage of being able to take careers that require a degree; such careers also have more opportunities for pay raises. 
+
+LIFE PATHS
+
+Apart from the Career and College Paths at the beginning of the game, there are two more junctions:
+
+At the first junction, the player can choose to take the Change Career Path, where they can draw one more Career and Salary Card and choose to switch to the new career. 
+
+At the second junction, the player can choose to take the Start a Family Path, where they can get married (if they have not been already), buy a house, and have either a baby or twins. 
+
+COLORED SPACES
+
+All spaces on the board fall under one of four colors:
+
+When a player lands on an orange space, they draw an action card from the deck and execute its effect.
+
+When a player lands on a blue space, they draw a blue card from the deck and execute its effect, either collecting money from the bank or paying the bank or another player.
+
+When a player lands on a green space, they either collect their current salary from the bank or have their salary and tax due increased according to their drawn Salary Card.
+
+When a player reaches a magenta space, they stop and execute the effect of the magenta space. These include major milestones, such as graduation, marriage, and choosing a life path. Afterwards, the player spins for a number and moves again. 
+
+BANK LOANS
+
+Players borrow money from the bank when they do not have enough cash on hand. Loans can be borrowed in multiples of $20000. Each bank loan shall be paid with $5000 interest. Players may pay loans before the start of their turn, where each payment is a multiple of $25000. 
+
+RETIREMENT
+
+The game ends when all players reach the Retirement space. When a player reaches Retirement, their assets and loans are converted and settled through the following steps:
+
+1. Collect retirement pay from the Bank. The first player to reach retirement collects $100000; second player collects $50000; and third player collects $20000.
+2. Collect $10000 for each child they have from the bank.
+3. Sell their house to the Bank for the selling amount listed on the card.
+4. Repay to the Bank all outstanding loans with interest.
+
+
+PROGRAM CREDITS
+
+Asset Sources
+
+Clipart Library. (n.d.). Gavel judge court computer icons clip art – lawyer png download. Retrieved from http://clipart-library.com/search2/?q=gavel-transparent-background-8#gsc.tab=1&gsc.q=gavel-transparent-background-8&gsc.page=1
+Clipart Library (n.d.). Free car cartoon transparent, download free clip art. Retrieved from http://clipart-library.com/search2/?q=cartoon%20car%20transparent%20background#gsc.tab=1 &gsc.q=cartoon%20car%20transparent%20background&gsc.page=1
+Clipart Library. (n.d.). Three dimensional shapes in house – Clip art library. Retrieved from http://clipart-library.com/search2/?q=681220#gsc.tab=1&gsc.q=681220&gsc.page=1
+Clipart Library. (n.d.). Transparent-house-cliparts #3208545. Retrieved from http://clipart-library.com/clipart/transparent-house-cliparts_6.htm
+Clipart Library. (n.d.). Trophy clipart – Clip art library. Retrieved from http://clipart-library.com/search2/?q=206586#gsc.tab=1&gsc.q=206586&gsc.page=1
+Clipartkey. (n.d.). 4,131 building free clipart images. Retrieved from https://www.clipartkey.com/search/building/
+Clipartkey. (n.d.). 462 race car clipart free clipart images. Retrieved from https://www.clipartkey.com/search/race-car-clipart/
+Clipartkey. (n.d.). 936 skiing clipart free clipart images. Retrieved from https://www.clipartkey.com/search/skiing-clipart/
+Clipartmax. (n.d.). Baby – Clip art baby bottle. Retrieved from https://www.clipartmax.com/so/baby-bottle-clip-art/
+Clipartmax. (n.d.). Green dollar sign clipart – Cartoon dollar sign transparent backgrounds. Retrieved from https://www.clipartmax.com/so/dollar-sign-clipart/
+Iconsdb.com. (n.d.). Black circle icon. Retrieved from https://www.iconsdb.com/black-icons/circle-icon.html
+Netclipart. (n.d.). Transparent background party popper emoji. Retrieved from https://www.netclipart.com/search.html?k=transparent+background+party+popper+emoji
+PinClipart. (n.d.). Bills to pay png clipart, png download – bills to pay png transparent png. Retrieved from https://www.pinclipart.com/pins/bill-clip-art/
+PinClipart. (n.d.). Necklace clipart pearl necklace cartoon pearl necklace. Retrieved from https://www.pinclipart.com/pins/pearl-necklace-clipart/
+PinClipart. (n.d.). School building clipart bird clipart hatenylo – Transparent background school clip art. Retrieved from https://www.pinclipart.com/pins/school-building/#
+PinClipart. (n.d.). Spanners adjustable spanner pipe wrench clip art – Adjustable wrench clip art. Retrieved from https://www.pinclipart.com/pins/spanner-wrench/
+PinClipart. (n.d.). Square academic cap graduation ceremony clip art – png. Retrieved from https://www.pinclipart.com/pins/graduation-cap/
+PNGItem. (n.d.). Png peoples free download stock png images. Retrieved from https://www.pngitem.com/so/png-peoples-free-download/
+The Game Assets Mine (2019, March 27). Cover-600x343.png. Retrieved from https://thegameassetsmine.com/wp-content/uploads/2019/03/
+UOKPL. (n.d.). Twins boy and girl clipart – Cartoon, HD png download. Retrieved from https://www.uokpl.rs/rsvi/TRRRRoT_twins-boy-and/
+Vhv.rs. (n.d.). Thumb image – mansion clipart. Retrieved from https://www.vhv.rs/somore/mansion/
+
+
+Authors
+
+Gonzales, Mark Edward M.
+Lee, Hylene Jules G.
+
+CCPROG3 S13A 
+De La Salle University - Manila College of Computer Studies, AY 2019-2020
