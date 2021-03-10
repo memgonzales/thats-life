@@ -2,7 +2,7 @@
 <b>That's Life</b> is a variant of <b>The Game of Life</b>, a board game originally created by Milton Bradley in 1860 and redesigned a century later by Reuben Klamer. As the name suggests, it mirrors actual events from a person's life — from going to college and landing a job, through getting married and buying a house, to borrowing loans and finally retiring. The most distinguishing feature of the game is the presence of branching points where a player has to make a decision: take the normal route or explore a more roundabout path towards the goal of retiring with the most amount of cash on hand.
 
 ## Task
-<b>That's Life</b> is the major course output for an object-oriented programming class. Below are screenshots of the gameplay: <br/>
+<b>That's Life</b> is the major course output for an object-oriented programming class. The complete project specifications are given in the file <code>Thats Life MP (Term 3, AY 2019 - 2020).pdf</code>, authored by Ms. Shirley B. Chu of the College of Computer Studies of De La Salle University. Below are screenshots of the gameplay: <br/>
 
 <img src="https://github.com/memgonzales/thats-life/blob/master/gameplay_screenshots/ThatsLife_1.PNG?raw=True" alt="Action Card" width = 750> 
 <img src="https://github.com/memgonzales/thats-life/blob/master/gameplay_screenshots/ThatsLife_2.PNG?raw=True" alt="Get Married" width = 750> 
@@ -16,8 +16,9 @@ This project consists of four folders:
 - <code>uml</code> - Unified Modeling Language (UML) class diagrams of this project
 
 It also includes the following files:
-- <code>Test Script Documentation.pdf</code> - Description of test cases
+- <code>Test Script Documentation.pdf</code> - Detailed description of test cases alongside expected and actual program behavior
 - <code>source.txt</code> - File paths of the <code>.java</code> source codes (used in compilation)
+- <code>Thats Life MP (Term 3, AY 2019 - 2020).pdf</code> - Complete project specifications
 
 
 ## Built Using
