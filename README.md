@@ -2,7 +2,9 @@
 
 ![badge](https://img.shields.io/badge/language-Java-orange.svg)
 
-<b>That's Life</b> is a variant of <b>The Game of Life</b>, a board game originally created by Milton Bradley in 1860 and redesigned a century later by Reuben Klamer. As the name suggests, it mirrors actual events in a person's life — from going to college and landing a job, through getting married and buying a house, to borrowing loans and finally retiring. The most distinguishing feature of the game is the presence of branching points where a player has to make a decision: take the normal route or explore a more roundabout path towards the goal of retiring with the most amount of cash on hand.
+<b>That's Life</b> is a variant of <b>The Game of Life</b>, a board game originally created by Milton Bradley in 1860 and redesigned a century later by Reuben Klamer. 
+
+As the name suggests, it mirrors actual events in a person's life — from going to college and landing a job, through getting married and buying a house, to borrowing loans and finally retiring. The most distinguishing feature of the game is the presence of branching points where a player has to make a decision: take the normal route or explore a more roundabout path towards the goal of retiring with the most amount of cash on hand.
 
 ## Task
 <b>That's Life</b> is the major course output in an object-oriented programming class under Ms. Shirley B. Chu of the Software Technology Department, De La Salle University. The complete project specifications and rules of the game are given in the file [<code>Project Specifications.pdf</code>](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf). Below are screenshots of the gameplay: <br/>
