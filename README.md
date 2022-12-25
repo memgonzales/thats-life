@@ -18,7 +18,7 @@ This project consists of four folders:
 - [<code>src</code>](https://github.com/memgonzales/thats-life/tree/master/src) - <code>.java</code> files (source codes)
 - [<code>uml</code>](https://github.com/memgonzales/thats-life/tree/master/uml) - Unified Modeling Language (UML) class diagrams of this project
 
-It also includes the following files:
+Besides the [`That's Life.jar`](https://github.com/memgonzales/thats-life/blob/master/That's%20Life.jar) binary, it also includes the following files:
 - [<code>Project Specifications.pdf</code>](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf) - Complete project specifications
 - [<code>Test Script Documentation.pdf</code>](https://github.com/memgonzales/thats-life/blob/master/Test%20Script%20Documentation.pdf) - Detailed description of test cases alongside expected and actual program behavior
 - [<code>source.txt</code>](https://github.com/memgonzales/thats-life/blob/master/source.txt) - File paths of the <code>.java</code> source codes (used in compilation)
