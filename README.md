@@ -1,8 +1,11 @@
 # That's Life
+
+![badge](https://img.shields.io/badge/language-Java-orange.svg)
+
 <b>That's Life</b> is a variant of <b>The Game of Life</b>, a board game originally created by Milton Bradley in 1860 and redesigned a century later by Reuben Klamer. As the name suggests, it mirrors actual events in a person's life — from going to college and landing a job, through getting married and buying a house, to borrowing loans and finally retiring. The most distinguishing feature of the game is the presence of branching points where a player has to make a decision: take the normal route or explore a more roundabout path towards the goal of retiring with the most amount of cash on hand.
 
 ## Task
-<b>That's Life</b> is the major course output in an object-oriented programming class. The complete project specifications are given in the file [<code>Project Specifications.pdf</code>](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf), authored by Ms. Shirley B. Chu of the College of Computer Studies of De La Salle University. Below are screenshots of the gameplay: <br/>
+<b>That's Life</b> is the major course output in an object-oriented programming class under Ms. Shirley B. Chu of the Software Technology Department, De La Salle University. The complete project specifications are given in the file [<code>Project Specifications.pdf</code>](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf), authored by Ms. Shirley B. Chu of the College of Computer Studies of De La Salle University. Below are screenshots of the gameplay: <br/>
 
 <img src="https://github.com/memgonzales/thats-life/blob/master/gameplay_screenshots/ThatsLife_1.PNG?raw=True" alt="Action Card" width = 750> 
 <img src="https://github.com/memgonzales/thats-life/blob/master/gameplay_screenshots/ThatsLife_2.PNG?raw=True" alt="Get Married" width = 750> 
@@ -32,6 +35,8 @@ The <code>.class</code> files were generated using <b>Java SE Development Kit 14
 To run the game, execute the following command in the terminal (opened from the root directory as well):
 
 <code>java -cp .;bin;\*\*/\*.class ThatsLife</code>
+
+Alternatively, the [`.jar`](https://github.com/memgonzales/thats-life/blob/master/That's%20Life.jar) file is also provided.
 
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
