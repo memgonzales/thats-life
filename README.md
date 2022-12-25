@@ -37,7 +37,7 @@ To run the game, execute the following command in the terminal (opened from the 
 
 Alternatively, the [`.jar`](https://github.com/memgonzales/thats-life/blob/master/That's%20Life.jar) file is also provided. 
 
-The game instructions can be found in this [document](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf); they can also be accessed in-game.
+The rules of the game are laid out in this [document](https://github.com/memgonzales/thats-life/blob/master/Project%20Specifications.pdf). They can also be read in-game by clicking the `RULES` button at the bottom right corner of the window.
 
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
