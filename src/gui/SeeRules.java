@@ -7,6 +7,8 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowListener;
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 
 /**
  * Class implementing a <b>SeeRules window</b> as part of the GUI for
@@ -89,7 +91,8 @@ public class SeeRules extends JFrame {
             and file processing can proceed), the contents of the file are read line by line, stored
             in the string, and appended to the text area.
             */
-            br = new BufferedReader(new FileReader("./src/assets/rules.txt"));
+            InputStream in = getClass().getResourceAsStream("/assets/rules.txt");
+            br = new BufferedReader(new InputStreamReader(in));
             while ((strLine = br.readLine()) != null) {
                 taRules.append(strLine + "\n");
             }

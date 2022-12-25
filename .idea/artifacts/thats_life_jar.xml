@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thats-life:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thats_life_jar</output-path>
+    <root id="archive" name="thats-life.jar">
+      <element id="module-output" name="thats-life" />
+    </root>
+  </artifact>
+</component>
